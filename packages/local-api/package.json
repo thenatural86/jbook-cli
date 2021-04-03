@@ -1,6 +1,6 @@
 {
   "name": "@jsnote-philip/local-api",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "",
   "files": [
     "dist"
@@ -23,9 +23,10 @@
     "typescript": "^4.2.3"
   },
   "dependencies": {
-    "@jsnote-philip/local-client": "^1.0.0",
+    "@jsnote-philip/local-client": "^3.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.1.0"
-  }
+  },
+  "gitHead": "dbc66f22de0c226a6f36a61e137bcb57c235bbe6"
 }
